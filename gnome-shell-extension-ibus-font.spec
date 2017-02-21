@@ -5,7 +5,7 @@
 Name:       gnome-shell-extension-%{shortname}
 Version:    0.%{snapshot_date}
 Release:    1%{?dist}
-Summary:    use ibus font setting of ibus setup dialog to enhance the user experience
+Summary:    A GNOME Shell extension for ibus-setup custom font settings
 
 License:    GPLv3+
 URL:        https://extensions.gnome.org/extension/1121/ibus-font-setting/
